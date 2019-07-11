@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5866dcea-c0fa-4a82-8479-1e95cc28cc24" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/demo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/datasets/imdb.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/datasets/imdb.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/model/faster_rcnn/vgg16.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/model/faster_rcnn/vgg16.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/model/nms/src/nms_cuda_kernel.cu.o" beforeDir="false" afterPath="$PROJECT_DIR$/lib/model/nms/src/nms_cuda_kernel.cu.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/model/roi_align/_ext/roi_align/_roi_align.so" beforeDir="false" afterPath="$PROJECT_DIR$/lib/model/roi_align/_ext/roi_align/_roi_align.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/model/roi_align/src/roi_align_kernel.cu.o" beforeDir="false" afterPath="$PROJECT_DIR$/lib/model/roi_align/src/roi_align_kernel.cu.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/model/roi_crop/_ext/roi_crop/_roi_crop.so" beforeDir="false" afterPath="$PROJECT_DIR$/lib/model/roi_crop/_ext/roi_crop/_roi_crop.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/model/roi_crop/src/roi_crop_cuda_kernel.cu.o" beforeDir="false" afterPath="$PROJECT_DIR$/lib/model/roi_crop/src/roi_crop_cuda_kernel.cu.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/model/roi_pooling/_ext/roi_pooling/_roi_pooling.so" beforeDir="false" afterPath="$PROJECT_DIR$/lib/model/roi_pooling/_ext/roi_pooling/_roi_pooling.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/model/roi_pooling/src/roi_pooling.cu.o" beforeDir="false" afterPath="$PROJECT_DIR$/lib/model/roi_pooling/src/roi_pooling.cu.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/model/rpn/anchor_target_layer.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/model/rpn/anchor_target_layer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/model/utils/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/model/utils/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/pycocotools/_mask.cpython-36m-x86_64-linux-gnu.so" beforeDir="false" afterPath="$PROJECT_DIR$/lib/pycocotools/_mask.cpython-36m-x86_64-linux-gnu.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sorting_models.py" beforeDir="false" afterPath="$PROJECT_DIR$/sorting_models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_net.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_net.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/train_net.py" beforeDir="false" afterPath="$PROJECT_DIR$/train_net.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainval_net.py" beforeDir="false" afterPath="$PROJECT_DIR$/trainval_net.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/val_net.py" beforeDir="false" afterPath="$PROJECT_DIR$/val_net.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>mean</find>
+      <find>set</find>
+      <find>test</find>
+      <find>cfg_from_list</find>
+      <find>set_cfgs</find>
+      <find>ANCH</find>
+      <find>cfg</find>
+      <find>self</find>
+      <find>start</find>
+      <find>time</find>
+      <find>ovthresh</find>
+      <find>Poma</find>
+      <find>det_file</find>
+      <find>RCNN_rpn.RPN_cls_score.weight</find>
+      <find>ANCHOR_RATIOS</find>
+      <find>output</find>
+      <find>loss_save</find>
+      <find>loss</find>
+      <find>epoch</find>
+      <find>thresh</find>
+      <find>get_kinect_fruits_results_file_template</find>
+      <find>get_kinect_fruits_results_file_templat</find>
+      <find>get</find>
+      <find>open</find>
+      <find>filename</find>
+      <find>cachedir</find>
+      <find>imagesetfile</find>
+      <find>imdb</find>
+      <find>annopath</find>
+      <find>imagenames</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/lib/roi_data_layer/roidb.py" />
+        <option value="$PROJECT_DIR$/lib/datasets/imdb.py" />
+        <option value="$PROJECT_DIR$/square_annot_from_pychet_rectangle.py" />
+        <option value="$PROJECT_DIR$/../workspace/pytorch-env/local/lib/python2.7/site-packages/torchvision/models/vgg.py" />
+        <option value="$PROJECT_DIR$/lib/model/faster_rcnn/vgg_models.py" />
+        <option value="$PROJECT_DIR$/lib/model/faster_rcnn/vgg16_5ch.py" />
+        <option value="$PROJECT_DIR$/prova" />
+        <option value="$PROJECT_DIR$/../faster-rcnn.pytorch_kinect_fruits/test_net.py" />
+        <option value="$PROJECT_DIR$/lib/model/utils/net_utils.py" />
+        <option value="$PROJECT_DIR$/lib/model/faster_rcnn/vgg16_4ch.py" />
+        <option value="$PROJECT_DIR$/lib/roi_data_layer/roibatchLoader.py" />
+        <option value="$PROJECT_DIR$/lib/model/faster_rcnn/vgg16.py" />
+        <option value="$PROJECT_DIR$/sorting_models.py" />
+        <option value="$PROJECT_DIR$/lib/model/faster_rcnn/faster_rcnn.py" />
+        <option value="$PROJECT_DIR$/train_net.py" />
+        <option value="$PROJECT_DIR$/lib/model/utils/blob.py" />
+        <option value="$PROJECT_DIR$/trainval_net4.py" />
+        <option value="$PROJECT_DIR$/trainval_net2.py" />
+        <option value="$PROJECT_DIR$/trainval_net2_4_8.py" />
+        <option value="$PROJECT_DIR$/trainval_net4_8_16.py" />
+        <option value="$PROJECT_DIR$/trainval_net4_8.py" />
+        <option value="$PROJECT_DIR$/trainval_net8_16_32.py" />
+        <option value="$PROJECT_DIR$/test_net8_16_32.py" />
+        <option value="$PROJECT_DIR$/test_net2.py" />
+        <option value="$PROJECT_DIR$/test_net2_4_8.py" />
+        <option value="$PROJECT_DIR$/test_net2_4_8_16.py" />
+        <option value="$PROJECT_DIR$/test_net4.py" />
+        <option value="$PROJECT_DIR$/test_net4_8.py" />
+        <option value="$PROJECT_DIR$/test_net8.py" />
+        <option value="$PROJECT_DIR$/test_net16.py" />
+        <option value="$PROJECT_DIR$/test_net4_8_16.py" />
+        <option value="$PROJECT_DIR$/lib/datasets/factory.py" />
+        <option value="$PROJECT_DIR$/lib/datasets/kinect_fruits2.py" />
+        <option value="$PROJECT_DIR$/lib/roi_data_layer/minibatch.py" />
+        <option value="$PROJECT_DIR$/lib/model/utils/config.py" />
+        <option value="$PROJECT_DIR$/worker.py" />
+        <option value="$PROJECT_DIR$/worker.sh" />
+        <option value="$PROJECT_DIR$/trainval_net.py" />
+        <option value="$PROJECT_DIR$/lib/datasets/kinect_fruits_eval.py" />
+        <option value="$PROJECT_DIR$/config_parse" />
+        <option value="$PROJECT_DIR$/lib/datasets/kinect_fruits_eval2.py" />
+        <option value="$PROJECT_DIR$/worker_test.sh" />
+        <option value="$PROJECT_DIR$/test_net.py" />
+        <option value="$PROJECT_DIR$/lib/datasets/kinect_fruits_eval3.py" />
+        <option value="$PROJECT_DIR$/demo.py" />
+        <option value="$PROJECT_DIR$/worker_demo.sh" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="19" />
+    <option name="width" value="1262" />
+    <option name="height" value="946" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../workspace/pythorch3" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/lib/datasets" />
+      <recent name="$PROJECT_DIR$/lib/model/faster_rcnn" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.kinect_fruits_eval">
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="faster-rcnn.pytorch" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration name="kinect_fruits_eval" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="faster-rcnn.pytorch" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lib/datasets" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lib/datasets/kinect_fruits_eval.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="square_annot_from_pychet_rectangle" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="faster-rcnn.pytorch" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/square_annot_from_pychet_rectangle.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train_net" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="faster-rcnn.pytorch" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train_net.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.kinect_fruits_eval" />
+      <item itemvalue="Python.square_annot_from_pychet_rectangle" />
+      <item itemvalue="Python.train_net" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.kinect_fruits_eval" />
+        <item itemvalue="Python.square_annot_from_pychet_rectangle" />
+        <item itemvalue="Python.train_net" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5866dcea-c0fa-4a82-8479-1e95cc28cc24" name="Default" comment="" />
+      <created>1531467712015</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1531467712015</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="19" width="1262" height="946" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18997575" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4112" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.51510334" side_tool="true" weight="0.37691402" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="10" sideWeight="0.48489666" visible="true" weight="0.43272728" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lib/roi_data_layer/roidb.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/demo.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/trainval_net16.py" />
+    <entry file="file://$PROJECT_DIR$/trainval_net32.py" />
+    <entry file="file://$PROJECT_DIR$/trainval_net64.py" />
+    <entry file="file://$PROJECT_DIR$/lib/datasets/kinect_fruits2_bkup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="253" selection-start-line="253" selection-end-line="262" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trainval_net8.py" />
+    <entry file="file://$PROJECT_DIR$/trainval_net2.py" />
+    <entry file="file://$PROJECT_DIR$/lib/model/faster_rcnn/vgg16_5ch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="57" column="58" selection-start-line="57" selection-start-column="58" selection-end-line="57" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/model/utils/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/model/faster_rcnn/faster_rcnn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-408">
+          <caret line="73" column="30" selection-start-line="73" selection-start-column="26" selection-end-line="73" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/model/utils/bbox.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1845" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/model/utils/logger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-468" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/model/rpn/anchor_target_layer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/train_net.py" />
+    <entry file="file://$PROJECT_DIR$/lib/model/rpn/generate_anchors.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1110">
+          <caret line="95" column="26" selection-start-line="95" selection-start-column="26" selection-end-line="95" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trainval_net4.py" />
+    <entry file="file://$PROJECT_DIR$/trainval_net2_4_8.py" />
+    <entry file="file://$PROJECT_DIR$/trainval_net4_8.py" />
+    <entry file="file://$PROJECT_DIR$/trainval_net4_8_16.py" />
+    <entry file="file://$PROJECT_DIR$/trainval_net8_16_32.py" />
+    <entry file="file://$PROJECT_DIR$/test_net2.py" />
+    <entry file="file://$PROJECT_DIR$/test_net2_4_8_16.py" />
+    <entry file="file://$PROJECT_DIR$/test_net8_16_32.py" />
+    <entry file="file://$PROJECT_DIR$/test_net4.py" />
+    <entry file="file://$PROJECT_DIR$/test_net4_8.py" />
+    <entry file="file://$PROJECT_DIR$/test_net8.py" />
+    <entry file="file://$PROJECT_DIR$/test_net2_4_8.py" />
+    <entry file="file://$PROJECT_DIR$/test_net16.py" />
+    <entry file="file://$PROJECT_DIR$/test_net4_8_16.py" />
+    <entry file="file://$PROJECT_DIR$/lib/datasets/factory.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/roi_data_layer/minibatch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="76" column="78" selection-start-line="76" selection-start-column="48" selection-end-line="76" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/datasets/kinect_fruits2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="40" column="30" selection-start-line="40" selection-start-column="26" selection-end-line="40" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo_old.py" />
+    <entry file="file://$PROJECT_DIR$/lib/model/rpn/rpn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="42" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/model/utils/net_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-15">
+          <caret line="56" column="32" selection-start-line="56" selection-start-column="32" selection-end-line="56" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/model/utils/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="296" selection-start-line="296" selection-end-line="296" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worker.py" />
+    <entry file="file://$PROJECT_DIR$/lib/make.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/datasets/imdb.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="109" column="11" selection-start-line="109" selection-start-column="7" selection-end-line="109" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cfgs/vgg16_5ch.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cfgs/vgg16_4ch.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/datasets/kinect_fruits_eval.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="188" column="4" selection-start-line="188" selection-start-column="4" selection-end-line="188" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/datasets/kinect_fruits_eval_bkup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1260" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trainval_net.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6990">
+          <caret line="497" column="21" selection-start-line="497" selection-start-column="21" selection-end-line="497" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/datasets/kinect_fruits_eval2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="138" column="22" selection-start-line="138" selection-start-column="22" selection-end-line="138" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/datasets/kinect_fruits_eval3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="77" column="17" selection-start-line="77" selection-start-column="17" selection-end-line="77" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2235">
+          <caret line="185" column="147" selection-start-line="185" selection-start-column="147" selection-end-line="185" selection-end-column="147" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_net.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2910">
+          <caret line="194" column="151" selection-start-line="194" selection-start-column="101" selection-end-line="194" selection-end-column="151" />
+          <folding>
+            <element signature="e#275#313#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worker_test.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="56" column="12" selection-start-line="56" selection-start-column="12" selection-end-line="56" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worker_demo.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worker.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="53" selection-start-line="10" selection-start-column="53" selection-end-line="10" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config_parse">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1890">
+          <caret line="126" column="16" selection-start-line="100" selection-end-line="131" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
